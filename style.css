@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    color: rgb(19, 23, 22);
+}
+
+ul {
+    color: rgb(178, 10, 10);
+}
+
+* {
+    background-color: rgb(183, 161, 161);
+}
+
+h3 {
+    text-align: center;
+    text-decoration: double;
+    color: rgb(34, 0, 111);
+}
+
+footer {
+    text-align: center;
+    color: rgb(16, 17, 18);
+
+}
